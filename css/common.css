@@ -1,0 +1,9 @@
+@import "http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700";
+body                        { font-family: Lato,"Helvetica Neue",Helvetica,Arial,sans-serif; }
+h1>a                        { font-size: 38px; font-weight: 700; color: #111111; text-transform: uppercase; }
+p                           { color: #555555;}
+a                           { text-decoration: none; }
+a:hover                     { text-decoration: none; }
+.mainWrapper                { width: 75%; margin: 0 auto; }
+
+
