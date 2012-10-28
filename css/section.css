@@ -1,0 +1,9 @@
+section                         { overflow: hidden; }
+section img                     { float: left; margin-left: 7px; background: none repeat scroll 0 0 #FFFFFF;
+                                  padding: 15px 0;
+                                }
+section aside                   { width: 95%; margin: 0 auto; border-left: 1px solid #E5E5E5; padding-bottom: 180px;}
+section .userInfo               { float: left; width: 60%; line-height: 26px; margin: 10px -5px 0 50px; }
+section .userInfo a             { color: #0099D2; }
+section .userInfo a:hover       { color: #003366; }
+section .userConnection         { font-size: 12px; line-height: 19.2px; float: right; width: 30%; margin-top: 10px; }

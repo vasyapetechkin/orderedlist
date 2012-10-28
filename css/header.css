@@ -1,0 +1,10 @@
+header                     { margin-top: 7%;  overflow: hidden; }
+header aside               { width: 95%; margin: 0 auto; border-left: 1px solid #E5E5E5; padding-bottom: 120px;}
+header img                 { float: left; margin-left: 7px; background: none repeat scroll 0 0 #FFFFFF;
+                             padding: 0 0 15px;
+                           }
+header ul                  { text-transform: uppercase; font-size: 16px; line-height: 1.1; }
+header ul a                { color: #999999; float: left;  display: inline-block; margin: 10px -9px 0 34px;}
+header ul a:hover          { color: #333333; }
+header #siteName           { color: #111111; float: left;  display: inline-block;  margin: 10px -5px 0 50px;}
+

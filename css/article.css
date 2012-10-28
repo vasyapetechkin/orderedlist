@@ -1,0 +1,13 @@
+article                                { overflow: hidden; }
+article .data                          { font-size: 13px; font-weight: 300; color: #111111; text-transform: uppercase;
+                                         float: left; background: none repeat scroll 0 0 #FFFFFF; padding: 15px 0;
+                                         text-align: center; margin-left: 7px;
+                                       }
+article .reference                     { width: 95%; margin: 0 auto; border-left: 1px solid #E5E5E5;
+                                         padding-bottom: 100px;
+                                       }
+article .reference p                   { width: 60%; font-size: 16px; line-height: 26px; margin: 10px -5px 0 72px; }
+article .reference h1 a                { margin-left: 43px;}
+article .reference h1 a:hover          { color: #333333; }
+article .reference p a                 { color: #0099D2; }
+article .reference p a:hover           { color: #333333; }
